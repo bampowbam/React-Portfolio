@@ -10,7 +10,7 @@ function App() {
     <Layout>
         <Header className='header-color' title="Luke Balogun's Portfolio" scroll>
             <Navigation>
-                <Link to="/">Home</Link>
+                <Link to="/React-Portfolio">Home</Link>
                 <Link to="/resume">Resume</Link>
                 <Link to="/about">About</Link>
                 <Link to="/projects">Projects</Link>
@@ -19,7 +19,7 @@ function App() {
         </Header>
         <Drawer title="Luke Balogun's Portfolio">
             <Navigation>
-                <Link to="/">Home</Link>
+                <Link to="/React-Portfolio">Home</Link>
                 <Link to="/resume">Resume</Link>
                 <Link to="/about">About</Link>
                 <Link to="/projects">Projects</Link>
