@@ -19,7 +19,7 @@ class Landing extends Component {
                             <p> Angular | React | Javascript | Typescript | .NET CORE C# Web API | Python | Django | SQL | AWS | Azure  </p>
                             <div className="social-links">
                                 {/* Github */}
-                                <a href="hhtp://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://github.com/bampowbam" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-github-square" aria-hidden="true" />
                                 </a>
                             </div>
