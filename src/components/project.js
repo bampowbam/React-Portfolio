@@ -110,6 +110,7 @@ class Project extends Component {
             </div>
             )
         }
+        /*Python*/
         else if(this.state.activeTab ===2){
             return (
                 <div className="projects-grid">    
@@ -123,6 +124,20 @@ class Project extends Component {
                     <CardActions border>
                     {/* eslint-disable-next-line */}
                         <Button colored><a href="http://165.22.215.99:7002/" target="_blank">LiveDemo</a></Button>
+                    </CardActions>
+                    <CardMenu style={{color:'#fff'}}>
+                        <IconButton name="share"/>
+                    </CardMenu>
+                </Card>
+                <Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
+                    <CardTitle style={{color:'#fff', height:'176px', background:'url(https://res.cloudinary.com/bampow/image/upload/v1577591790/Dealership-Feedback.png) center / cover'}}></CardTitle>
+                    <CardText>
+                        Simple CRUD web app project built with HTML, Python-Flask, PostgresSQL, Heroku. This was just something I put together when reading Flask documentation and hosted it on Heroku for viewing purposes. 
+                    </CardText>
+                    <CardActions border>
+                    {/* eslint-disable-next-line */}
+                        <Button colored><a href="https://dealershipfeedback.herokuapp.com/" target="_blank">LiveDemo</a></Button>
+                        <Button colored><a href="https://github.com/bampowbam/DealershipFeedback" target="_blank">Github</a></Button>
                     </CardActions>
                     <CardMenu style={{color:'#fff'}}>
                         <IconButton name="share"/>
