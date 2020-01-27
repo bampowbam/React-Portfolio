@@ -123,7 +123,7 @@ class Project extends Component {
                     </CardText>
                     <CardActions border>
                     {/* eslint-disable-next-line */}
-                        <Button colored><a href="http://165.22.215.99:7002/" target="_blank">LiveDemo</a></Button>
+                        <Button colored><a href="https://shokha.tk/" target="_blank">LiveDemo</a></Button>
                     </CardActions>
                     <CardMenu style={{color:'#fff'}}>
                         <IconButton name="share"/>
