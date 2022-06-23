@@ -22,6 +22,10 @@ class Landing extends Component {
                                 <a href="https://github.com/bampowbam" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-github-square" aria-hidden="true" />
                                 </a>
+                                {/* AWS */}
+                                <a href="" rel="noopener noreferrer" target="_blank">
+                                    <i className="fa fa-amazon" aria-hidden="true" />
+                                </a>
                             </div>
                         </div>
                     </Cell>

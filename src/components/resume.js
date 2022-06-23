@@ -26,7 +26,7 @@ class Resume extends Component {
               --Martin Fowler </p>
             <hr style={{ borderTop: '3px solid #833fb2', width: '50%' }} />
             <h5>Address</h5>
-            <p>10 E 26th St. 55404</p>
+            <p>2709 Lyons Rd Austin TX 78702</p>
             <h5>Phone</h5>
             <p>(832)2746841</p>
             <h5>Email</h5>
@@ -52,23 +52,17 @@ class Resume extends Component {
             <hr style={{ borderTop: '3px solid #e22947' }} />
             <h2>Experience</h2>
             <Experience
-              startYear={2021}
-              endYear={"Current"}
-              jobName="Syndigo"
-              jobDescription="Syndigo powers the continual flow of data and content throughout the entire commerce ecosystem."
-            />
-            <Experience
-              startYear={2020}
-              endYear={2021}
-              jobName="WHCC"
-              jobDescription="White House Custom Color is a privately held picture frame manufacturing company. Main purpose was to maintain and build solutions that revolved around the ecommerce platforms for end user customers and manufacturing software for the warehouse."
-            />
-            <Experience
               startYear={2018}
-              endYear={2020}
+              endYear={"Current"}
               jobName="Ameriprise"
               jobDescription="American diversified financial services company. Ameriprise Financial engages in business through its subsidiaries, providing financial planning, products, and services. Fortune 500 company."
             />
+            <Experience
+                startYear={2017}
+                endYear={2018}
+                jobName="Epic Systems"
+                jobDescription="Epic is a privately held healthcare software company. According to the company, hospitals that use its software hold medical records of 54% of patients in the United States and 2.5% of patients worldwide."
+                />
 
             ...Continued on Resume docx
             <hr style={{ borderTop: '3px solid #e22947' }} />
