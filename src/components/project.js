@@ -123,7 +123,7 @@ class Project extends Component {
                     </CardText>
                     <CardActions border>
                     {/* eslint-disable-next-line */}
-                        <Button colored><a href="https://shokha.tk/" target="_blank">LiveDemo</a></Button>
+                        <Button colored><a href="https://letsflash.co/" target="_blank">LiveDemo</a></Button>
                     </CardActions>
                     <CardMenu style={{color:'#fff'}}>
                         <IconButton name="share"/>
@@ -136,7 +136,6 @@ class Project extends Component {
                     </CardText>
                     <CardActions border>
                     {/* eslint-disable-next-line */}
-                        <Button colored><a href="https://dealershipfeedback.herokuapp.com/" target="_blank">LiveDemo</a></Button>
                         <Button colored><a href="https://github.com/bampowbam/DealershipFeedback" target="_blank">Github</a></Button>
                     </CardActions>
                     <CardMenu style={{color:'#fff'}}>
@@ -159,7 +158,7 @@ class Project extends Component {
                     </CardText>
                     <CardActions border>
                     {/* eslint-disable-next-line */}
-                        <Button colored><a href="https://qualitycoffeemakers.com" target="_blank">Website</a></Button>
+                        <Button colored><a href="https://www.amazon.com/Bear-Naked-Brew-Multi-Screen-Filtration/dp/B07J3VSXFP/ref=cm_cr_arp_d_product_top?ie=UTF8" target="_blank">Website</a></Button>
                     </CardActions>
                     <CardMenu style={{color:'#fff'}}>
                         <IconButton name="share"/>
@@ -174,7 +173,7 @@ class Project extends Component {
                     </CardText>
                     <CardActions border>
                     {/* eslint-disable-next-line */}
-                        <Button colored><a href="http://165.22.215.99:7002/" target="_blank">LiveDemo</a></Button>
+                        <Button colored><a href="https://letsflash.co/" target="_blank">LiveDemo</a></Button>
                     </CardActions>
                     <CardMenu style={{color:'#fff'}}>
                         <IconButton name="share"/>
